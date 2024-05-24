@@ -1,3 +1,11 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+
+author: Pavel Mrkva
+email: palon@seznam.cz
+discord: pavel_58358
+"""
+
 import requests
 from bs4 import BeautifulSoup
 import sys
