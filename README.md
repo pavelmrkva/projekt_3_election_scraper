@@ -26,6 +26,7 @@ průběh:
 STAHUJI DATA Z VYBRANE URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=13&xnumnuts=7201
 
 UKLADAM DO SOUBORU: vysledky_kromeriz.csv.
+
 UKONCUJI election-scraper
  
 
